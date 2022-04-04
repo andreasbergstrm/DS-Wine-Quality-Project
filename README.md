@@ -21,7 +21,7 @@
 ## Model Building
 
 I tried three different models:
-* Logistic Regression
+* Multionomial Logistic Regression
 * ...
 * ...
 
