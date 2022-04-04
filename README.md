@@ -17,6 +17,8 @@
 
 ![](characteristics_heatmap.png)
 
+![](quality_alcohol_volatile_pair.png)
+
 ## Statistical Analysis
 
 ## Model Building
