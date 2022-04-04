@@ -21,6 +21,8 @@
 
 ## Statistical Analysis
 
+![](multi_regression.png)
+
 ## Model Building
 
 I tried three different models:
