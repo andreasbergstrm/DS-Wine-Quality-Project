@@ -13,7 +13,7 @@
 
 ## EDA
 
-![](/images/characteristics_heatmap.png)
+![](characteristics_heatmap.png)
 
 ## Statistical Analysis
 
