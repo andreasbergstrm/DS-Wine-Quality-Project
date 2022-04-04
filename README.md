@@ -13,6 +13,8 @@
 
 ## EDA
 
+![](/images/characteristics_heatmap.png)
+
 ## Statistical Analysis
 
 ## Model Building
