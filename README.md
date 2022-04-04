@@ -25,9 +25,11 @@
 
 ## Model Building
 
-I tried three different models:
+First I scaled the feature data to improve the training of the models.
+
+Then I tried three different models:
 * Multionomial Logistic Regression
-* ...
-* ...
+* Random Forest Classifier
+* Decision Tree Classifier
 
 ## Model Performance
