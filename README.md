@@ -13,6 +13,8 @@
 
 ## EDA
 
+![](quality_dist.png)
+
 ![](characteristics_heatmap.png)
 
 ## Statistical Analysis
