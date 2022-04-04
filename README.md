@@ -21,7 +21,7 @@
 
 ## Statistical Analysis
 
-![](multi_regression.png)
+![](multi_regression.PNG)
 
 ## Model Building
 
