@@ -8,7 +8,7 @@
 ## Code and Resources Used
 
 **Programming Language:** Python  
-**Packages:**  
+**Packages:** pandas, numpy, scikit-learn, stats...
 **Dataset Source:** https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 ## EDA
