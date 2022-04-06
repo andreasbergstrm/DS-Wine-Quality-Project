@@ -30,8 +30,14 @@ To investigate whether any wine characteristic had a statistically significant r
 First I scaled the feature data to improve the training of the models.
 
 Then I tried three different models:
-* Multionomial Logistic Regression
+* Multinomial Logistic Regression
 * Random Forest Classifier
 * Decision Tree Classifier
 
 ## Model Performance
+
+The Random Forest classifier outperformed the other models since it had the highest accuracy by far.
+
+* **Random Forest:** Accuracy = 67% 
+* **Multinomial Logistic Regression:** Accuracy = 63% 
+* **Decision Tree:** Accuracy = 56%   
