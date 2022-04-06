@@ -14,12 +14,9 @@
 
 ## EDA
 
-I looked at the distributions of the data (such as wine quality) and checked the correlations between the variables and visuzalised them in bar plots and a heat map. I also took the variables which had the highest correlations with quality and created plots with them and wine queality. Below is a highlight of the distribution of wine quality, the correlation heat map and a scatterplot of quality and alcohol.
+I looked at the distributions of the data (such as wine quality) and checked the correlations between the variables and visuzalised them in bar plots and a heat map. I also took the variables which had the highest correlations with quality and created plots with them and wine queality. Below is a highlight of the distribution of wine quality and a scatterplot of quality and alcohol.
 
 ![](quality_dist.png)
-
-![](characteristics_heatmap.png =250x250)
-
 ![](quality_alcohol_reg.png)
 
 ## Statistical Analysis
