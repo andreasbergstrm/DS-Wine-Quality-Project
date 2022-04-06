@@ -22,7 +22,7 @@
 
 ## Statistical Analysis
 
-To investigate whether any wine characteristic has a statistically significant relationship with wine quality, I took those variables which had the highest correlation with quality and put them in a multiple linear OLS regression and summarized the results, which can be seen in the figure below.
+To investigate whether any wine characteristic had a statistically significant relationship with wine quality, I took those variables which had the highest correlation with quality and put them in a multiple linear OLS regression and summarized the results, which can be seen in the figure below.
 
 ![](multi_regression.PNG)
 
