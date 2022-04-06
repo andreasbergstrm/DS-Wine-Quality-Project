@@ -27,7 +27,7 @@ To investigate whether any wine characteristic had a statistically significant r
 
 ## Model Building
 
-First I scaled the feature data to improve the training of the models.
+First I scaled the feature data to improve the training of the models, then I split the data into training and test sets with the test set percentage being 33%.
 
 Then I tried three different models:
 * Multinomial Logistic Regression
