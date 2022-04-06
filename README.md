@@ -2,8 +2,8 @@
 
 ## Overview
 * Created a machine learning classification model to to predict wine quality (67% accuracy), based on the wines' chemical characteristics.
-* Statistical inference with Multiple Linear Regression
-* Created a Multinomial Logistic Regression machine learning model to predict wine quality based on characteristics
+* Used statistical analysis (multiple linear regression) to highlight key predictors of quality
+* Built and compared three models: Multinomial Logistic Regression, Decision Tree and Random Forest classifiers.
 * Used K-Fold cross-validation to reach the best model
 
 ## Code and Resources Used
