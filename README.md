@@ -1,6 +1,7 @@
 # Wine Quality Classification with Machine Learning
 
 ## Overview
+* Created a machine learning classification model to to predict wine quality (67% accuracy), based on the wines' chemical characteristics.
 * Statistical inference with Multiple Linear Regression
 * Created a Multinomial Logistic Regression machine learning model to predict wine quality based on characteristics
 * Used K-Fold cross-validation to reach the best model
