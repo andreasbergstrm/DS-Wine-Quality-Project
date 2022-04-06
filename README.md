@@ -9,7 +9,7 @@
 ## Code and Resources Used
 
 **Programming Language:** Python  
-**Packages:** pandas, numpy, scikit-learn, stats...  
+**Packages:** pandas, numpy, scikit-learn, statsmodels, seaborn, matplotlib  
 **Dataset Source:** https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 ## EDA
@@ -21,6 +21,8 @@
 ![](quality_alcohol_reg.png)
 
 ## Statistical Analysis
+
+To investigate whether any wine characteristic has a statistically significant relationship with wine quality, I took those variables which had the highest correlation with quality and put them in a multiple linear OLS regression and summarized the results, which can be seen in the figure below.
 
 ![](multi_regression.PNG)
 
