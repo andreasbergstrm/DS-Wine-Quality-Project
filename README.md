@@ -18,7 +18,7 @@ I looked at the distributions of the data (such as wine quality) and checked the
 
 ![](quality_dist.png)
 
-![](characteristics_heatmap.png)
+![](characteristics_heatmap.png =250x250)
 
 ![](quality_alcohol_reg.png)
 
