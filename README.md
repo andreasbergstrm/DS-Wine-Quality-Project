@@ -21,7 +21,7 @@ I looked at the distributions of the data (such as wine quality) and checked the
 
 ## Statistical Analysis
 
-To investigate whether any wine characteristic had a statistically significant relationship with wine quality, I took those variables which had the highest correlation with quality and put them in a multiple linear OLS regression and summarized the results, which can be seen in the figure below.
+To investigate whether any wine characteristic had a statistically significant relationship with wine quality, I took those variables which had the highest correlation with quality and put them in a multiple linear OLS regression and summarized the results, which can be seen in the figure below. The key dependent variables seem to be alcohol percentage, volatile acidity and sulphates level.
 
 ![](multi_regression.PNG)
 
