@@ -2,7 +2,7 @@
 
 ## Overview
 * Created a machine learning classification model to to predict wine quality (67% accuracy), based on the wines' chemical characteristics.
-* Used statistical analysis (multiple linear regression) to highlight key predictors of quality.
+* Used statistical analysis (multiple linear OLS regression) to highlight key predictors of quality.
 * Built and compared three models: Multinomial Logistic Regression, Decision Tree and Random Forest classifiers.
 * Optimized the models with GridSearchCV to tune hyperparameters and reach the best model.
 
